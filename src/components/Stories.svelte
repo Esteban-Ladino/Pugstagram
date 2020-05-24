@@ -16,17 +16,6 @@
     align-items: center;
     margin: 0 0 0.5em 0;
   }
-  .Stories-item h2 {
-    font-size: 14px;
-    color: black;
-    margin: 0 0 0 0.5em;
-  }
-  .Stories-item h2 span {
-    display: block;
-    font-size: 9px;
-    text-transform: uppercase;
-    color: gray;
-  }
   .Stories-head {
     display: flex;
     justify-content: space-between;
