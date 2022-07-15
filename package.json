@@ -11,7 +11,7 @@
   "author": "Esteban Ladino <esteban.ladino.927@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "svelte": "^3.22.3"
+    "svelte": "^3.49.0"
   },
   "devDependencies": {
     "@babel/core": "^7.9.6",
